@@ -111,7 +111,8 @@ print(f"Predicted value: {pre}")
 
 ## Output:
 
-![image](https://github.com/user-attachments/assets/a5451558-486a-415a-9b13-16bcaf0f28e4)
+![image](https://github.com/user-attachments/assets/317412ab-00cf-4209-86d0-c9b9a453150f)
+
 
 
 
